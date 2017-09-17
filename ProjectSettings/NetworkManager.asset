@@ -1,8 +1,3 @@
-%YAML 1.1
-%TAG !u! tag:unity3d.com,2011:
---- !u!149 &1
-NetworkManager:
-  m_ObjectHideFlags: 0
-  m_DebugLevel: 0
-  m_Sendrate: 15
-  m_AssetToPrefab: {}
+version https://git-lfs.github.com/spec/v1
+oid sha256:cdd27a772ed75eb5695adce4739b26d2f45f1925280711bb8d8a035cd03c32c0
+size 4112
